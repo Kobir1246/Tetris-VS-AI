@@ -279,4 +279,4 @@ It serves as a practical exploration of:
 
 ## 📜 License
 
-This project is available for educational and personal use.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

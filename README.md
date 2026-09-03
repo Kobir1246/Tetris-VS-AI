@@ -135,7 +135,9 @@ Currently, the project is implemented primarily in a single Python file:
 Tetris-vs-AI/
 │
 ├── tetris1.py
-└── README.md
+├── README.md
+└── LICENSE
+
 ```
 
 ---
